@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "skydropx": {
-      "type": "http",
-      "url": "https://mcp.skydropx.com/mcp"
-    }
-  }
-}

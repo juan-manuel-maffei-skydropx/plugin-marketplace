@@ -1109,6 +1109,7 @@
       }
     },
     "skydropx": {
+      "sha": "7c497776d705ca2752044bd6bd211bb853f0ca5d",
       "version": "1.0.0",
       "components": {
         "mcpServers": [
